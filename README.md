@@ -106,16 +106,9 @@ Despite high traffic, overall funnel conversion remains low, indicating optimiza
 
 
 📂 Project Structure
-Funnel_Analysis/
-│
-├── funnel.ipynb                 # Python EDA and funnel calculations
-├── main.py                      # Supporting analysis scripts
-├── funnel_analysis_data.csv     # Input dataset
-├── funnel_analysis_report.xlsx  # Summary metrics and outputs
-├── Funnel_Analysis_Dashboard.pbix  # Power BI dashboard
-├── images/
-│   └── dashboard_overview.png   # Dashboard screenshots
-├── README.md
+<img width="593" height="320" alt="image" src="https://github.com/user-attachments/assets/9c0a0f2f-9c77-4ed7-80cb-485621de6f9d" />
+
+
 
 🧰 Tools & Technologies
 
@@ -131,3 +124,4 @@ Git & GitHub: Version control and project sharing
 
 This project demonstrates how data can be transformed into clear, decision-ready insights by combining analytics and visualization.
 It highlights funnel inefficiencies and provides a foundation for conversion rate optimization and revenue growth strategies.
+
